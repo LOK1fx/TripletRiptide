@@ -299,6 +299,12 @@ namespace Riptide
             ExecuteLater(HeartbeatInterval, new HeartbeatEvent(this));
         }
 
+        [Obsolete]
+        public void Tick()
+        {
+
+        }
+
         /// <inheritdoc/>
         public override void Update()
         {
