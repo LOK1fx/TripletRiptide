@@ -14,11 +14,9 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://riptide.tomweiland.net/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/RiptideNetworking/Riptide</RepositoryUrl>
-    <PackageReadmeFile>nuget-readme.md</PackageReadmeFile>
     <Description>Riptide Networking is a lightweight C# networking library primarily designed for use in multiplayer games.</Description>
     <Copyright>Copyright © Tom Weiland 2022</Copyright>
     <RepositoryType>git</RepositoryType>
-    <PackageIcon>package-icon.png</PackageIcon>
     <PackageReleaseNotes>Check out the full release notes: https://riptide.tomweiland.net/manual/updates/release-notes/v2.2.0.html</PackageReleaseNotes>
     <Title>Riptide Networking</Title>
   </PropertyGroup>
